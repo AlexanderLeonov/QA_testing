@@ -1,3 +1,7 @@
+# Prerequisites
+
+For working with this project you need to download and install [nodejs](https://nodejs.org/en/download/).
+
 # Installing Dependencies
 
 Run the following command to install dependencies:
